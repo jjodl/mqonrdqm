@@ -8,15 +8,15 @@
                 "connection":
                 [
                     {
-                        "host": "10.73.XX.XXX",
+                        "host": "10.0.0.1",
                         "port": 1601
                     },
 		            {
-                        "host": "10.73.YY.YYY",
+                        "host": "10.0.0.2",
                         "port": 1601
                     },
 		            {
-                        "host": "10.73.ZZ.ZZZ",
+                        "host": "10.0.0.3",
                         "port": 1601
                     }
                 ],
@@ -40,15 +40,15 @@
                 "connection":
                 [
                     {
-                        "host": "10.73.XX.XXX",
+                        "host": "10.0.0.1",
                         "port": 1602
                     },
 		    {
-                        "host": "10.73.YY.YYY",
+                        "host": "10.0.0.2",
                         "port": 1602
                     },
 		    {
-                        "host": "10.73.ZZ.ZZZ",
+                        "host": "10.0.0.3",
                         "port": 1602
                     }
                 ],
@@ -72,15 +72,15 @@
                 "connection":
                 [
                     {
-                        "host": "10.73.XX.XXX",
+                        "host": "10.0.0.1",
                         "port": 1603
                     },
 		            {
-                        "host": "10.73.YY.YYY",
+                        "host": "10.0.0.2",
                         "port": 1603
                     },
 		            {
-                        "host": "10.73.ZZ.ZZZ",
+                        "host": "10.0.0.3",
                         "port": 1603
                     }
                ],
@@ -104,15 +104,15 @@
                 "connection":
                 [
                     {
-                        "host": "10.73.XX.XXX",
+                        "host": "10.0.0.1",
                         "port": 1601
                     },
 		            {
-                        "host": "10.73.YY.YYY",
+                        "host": "10.0.0.2",
                         "port": 1601
                     },
 		            {
-                        "host": "10.73.ZZ.ZZZ",
+                        "host": "10.0.0.3",
                         "port": 1601
                     }
                 ],
@@ -136,15 +136,15 @@
                 "connection":
                 [
                         {
-                            "host": "10.73.XX.XXX",
+                            "host": "10.0.0.1",
                             "port": 1602
                         },
                         {
-                            "host": "10.73.YY.YYY",
+                            "host": "10.0.0.2",
                             "port": 1602
                         },
                         {
-                            "host": "10.73.ZZ.ZZZ",
+                            "host": "10.0.0.3",
                             "port": 1602
                         }
                 ],
@@ -168,15 +168,15 @@
                 "connection":
                 [
                     {
-                        "host": "10.73.XX.XXX",
+                        "host": "10.0.0.1",
                         "port": 1603
                     },
 		            {
-                        "host": "10.73.YY.YYY",
+                        "host": "10.0.0.2",
                         "port": 1603
                     },
 		            {
-                        "host": "10.73.ZZ.ZZZ",
+                        "host": "10.0.0.3",
                         "port": 1603
                     }
                ],
