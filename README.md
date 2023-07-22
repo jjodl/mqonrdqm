@@ -1,3 +1,3 @@
-# mqoncp4i
+# mqonrdqm
 
-Working directory for MQ on CP4I PoT
+Working directory for MQ Advanced RDQM PoT
